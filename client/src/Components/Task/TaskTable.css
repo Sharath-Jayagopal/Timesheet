@@ -1,0 +1,17 @@
+#TaskTable td,
+th {
+  padding: 5px;
+}
+
+#TaskTable th {
+  cursor: pointer;
+}
+
+tr {
+  margin: 1px solid rgba(20, 14, 14, 0);
+}
+
+#TaskTable {
+  margin-left: 25%;
+  margin-top: 5%;
+}

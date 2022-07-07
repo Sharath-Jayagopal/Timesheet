@@ -1,0 +1,53 @@
+.task-add {
+  height: 500px;
+}
+
+.task-add-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.task-add-form input {
+  height: 25px;
+  border-radius: 15px;
+  width: 300px;
+  text-align: center;
+  font-size: 12px;
+  margin: 5px 0;
+}
+
+.task-add-form textarea {
+  height: 50px;
+  border-radius: 15px;
+  width: 300px;
+  text-align: center;
+  font-size: 12px;
+  margin: 5px 0;
+}
+
+.task-add-form label {
+  text-align: left;
+}
+
+.task-add-form select {
+  margin: 5px 0;
+  padding: 5px;
+  width: 300px;
+  height: 35px;
+  border-radius: 15px;
+}
+
+.btn-task {
+  background: #0275d8;
+  color: #fff;
+  border-radius: 15px;
+  width: 300px;
+  height: 50px;
+}
+
+.task-add button:hover {
+  background: rgb(40, 156, 156);
+  cursor: pointer;
+}

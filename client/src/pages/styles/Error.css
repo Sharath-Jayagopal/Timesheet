@@ -1,0 +1,14 @@
+.Error {
+  background: #4e2c96;
+  color: #fff;
+  height: 100vh;
+  width: 100%;
+  text-align: center;
+  position: relative;
+}
+
+.Error h2 {
+  position: absolute;
+  bottom: 60%;
+  left: 45%;
+}
